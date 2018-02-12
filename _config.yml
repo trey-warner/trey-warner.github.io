@@ -16,3 +16,5 @@ github_username:  trey-warner
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
