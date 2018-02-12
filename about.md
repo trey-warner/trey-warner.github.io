@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Trey the great the very great! Why do you need to know about me? That's all I am. **JK**! I am Trey and this is my very first jekyll website (blog). I only use jekyll for github pages though. I am a fan of old movies and songs (especially the Venture) and I like using vim and nano when I edit code.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Movies/Shorts I Like
+--------------------
+* For a Few Dollars More
+* The Good, The Bad, And The Ugly
+* Modern Times
+* The Great Dictator
+* Charles Chaplin's shorts
